@@ -22,7 +22,7 @@ A PCB defect detection application deployed using the QT and OnnxRuntime framewo
 
 * Click PCB sample picture to preview the picture.
 
-<img src="./examples/preview.png" align="center" alt="preview" style="zoom:100%;" />
+<div align="center"><img src="./examples/preview.png" align="center" alt="preview" style="zoom:100%;" /></div>
 
 * The defect detection for batch PCB defect pictures. Displays defect processing progress and batch defect sample number.
 
