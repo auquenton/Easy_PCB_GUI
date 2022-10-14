@@ -10,8 +10,7 @@ A PCB defect detection application deployed using the QT and OnnxRuntime framewo
 * We use PKU-Market-PCB datasets.
 
 See the Source Code 
-
-[Source Code]: https://github.com/StudentKang/EasyPCB
+[Source Code](https://github.com/StudentKang/EasyPCB)
 
 ## Install
 
@@ -21,14 +20,14 @@ See the Source Code
 ## introduction
 
 * The defect detection for a single PCB defect picture. Displays detection speed, defect category, and the number of corresponding defect.
-<img src="./examples/single.png" align="center" alt="single" style="zoom: 33%;" />
+<img src="./examples/single.png" align="center" alt="single" />
 
 * Click PCB sample picture to preview the picture.
 
-<div align="center"><img src="./examples/preview.png" align="center" alt="preview" style="zoom:100%;" /></div>
+<div align="center"><img src="./examples/preview.png" align="center" alt="preview" width="500" height="350" /></div>
 
 * The defect detection for batch PCB defect pictures. Displays defect processing progress and batch defect sample number.
 
-<div align="center"><img src="./examples/batch.png" alt="batch"  /></div>
-<div align="center"><img src="./examples/detection.png" alt="detection"  /></div>
+<div align="center"><img src="./examples/batch.png" alt="batch" width="500" height="350" /></div>
+<div align="center"><img src="./examples/detection.png" alt="detection" width="500" height="350" /></div>
 
