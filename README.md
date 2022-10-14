@@ -18,11 +18,11 @@ A PCB defect detection application deployed using the QT and OnnxRuntime framewo
 
 * The defect detection for a single PCB defect picture. Displays detection speed, defect category, and the number of corresponding defect.
 
-<img src="./examples/single.png" alt="single" style="zoom: 50%;" />
+<img src="./examples/single.png" align="center" alt="single" style="zoom: 50%;" />
 
 * Click PCB sample picture to preview the picture.
 
-![preview](./examples/preview.png)
+<img src="./examples/preview.png" align="center" alt="preview" style="zoom:100%;" />
 
 * The defect detection for batch PCB defect pictures. Displays defect processing progress and batch defect sample number.
 
