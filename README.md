@@ -9,6 +9,10 @@ A PCB defect detection application deployed using the QT and OnnxRuntime framewo
 * Model deployment is implemented using the OnnxRuntime framework.
 * We use PKU-Market-PCB datasets.
 
+See the Source Code 
+
+[Source Code]: https://github.com/StudentKang/EasyPCB
+
 ## Install
 
 * clone the project by ```git clone https://github.com/StudentKang/Easy_PCB_App.git```
