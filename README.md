@@ -17,7 +17,7 @@ See the Source Code
 * clone the project by ```git clone https://github.com/StudentKang/Easy_PCB_App.git```
 * Use it by clicking ```QT_PCB.exe```.
 
-## introduction
+## Note
 
 * The defect detection for a single PCB defect picture. Displays detection speed, defect category, and the number of corresponding defect.
 <img src="./examples/single.png" align="center" alt="single" />
